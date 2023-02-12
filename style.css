@@ -1,6 +1,5 @@
 body {
     font-family: 'Marck Script', cursive;
-    background: #C0DCC0;
     color: #000000;
     font-family: Arial, Times New Roman;
     font-size: 16px;
@@ -452,5 +451,14 @@ font-size: 15px;
 line-height: 19px;
 
 color: #000000;
+}
+
+
+#glav{
+    position: relative;
+width: 360px;
+height: 2171px;
+
+background: #C0DCC0;
 }
 
