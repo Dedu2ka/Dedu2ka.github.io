@@ -7,8 +7,8 @@ body {
 
 header {
     position: absolute;
-width: 360px;
-height: 78px;
+width: 720px;
+height: 156px;
 left: 0px;
 top: 0px;
 
@@ -20,34 +20,32 @@ top: 0px;
 
 #txt1{
     position: absolute;
-    width: 140px;
-    height: 16px;
-    left: 6px;
-    top: 6px;
+    width: 280px;
+    height: 32px;
+    left: 12px;
+    top: 12px;
 
-    font-family: 'Marck Script';
+        font-family: 'Marck Script';
     font-style: normal;
     font-weight: 400;
-    font-size: 15px;
-    line-height: 19px;
+    font-size: 30px;
+    line-height: 37px;
 
     color: #000000;
 }
 
 #txt2{
     position: absolute;
-width: 129px;
-height: 19px;
-left: 82px;
-top: 30px;
+width: 258px;
+height: 38px;
+left: 164px;
+top: 60px;
 
 font-family: 'Marck Script';
 font-style: normal;
 font-weight: 400;
-font-size: 15px;
-line-height: 19px;
-/* identical to box height */
-
+font-size: 30px;
+line-height: 37px;
 
 color: #000000;
 
@@ -55,21 +53,19 @@ color: #000000;
 
 #txt3{
     position: absolute;
-width: 176px;
-height: 19px;
-left: 180px;
-top: 56px;
-
+width: 352px;
+height: 38px;
+left: 360px;
+top: 112px;
 
 font-family: 'Marck Script';
 font-style: normal;
 font-weight: 400;
-font-size: 15px;
-line-height: 19px;
-/* identical to box height */
-
+font-size: 30px;
+line-height: 37px;
 
 color: #000000;
+
 
 }
 
@@ -78,18 +74,18 @@ color: #000000;
 
 #i1{
     position: absolute;
-width: 212px;
-height: 19px;
-left: 6px;
-top: 85px;
+width: 424px;
+height: 38px;
+left: 12px;
+top: 170px;
 
 
 
 font-family: 'Marck Script';
 font-style: normal;
 font-weight: 400;
-font-size: 14px;
-line-height: 19px;
+font-size: 28px;
+line-height: 35px;
 /* identical to box height */
 
 
@@ -99,41 +95,41 @@ color: #000000;
 
 #f1{
     position: absolute;
-width: 219px;
-height: 55px;
-left: 6px;
-top: 109px;
+width: 438px;
+height: 110px;
+left: 12px;
+top: 218px;
+
 }
 
 #d1{
     position: absolute;
-width: 42px;
-height: 19px;
-left: 29px;
-top: 169px;
+width: 84px;
+height: 38px;
+left: 58px;
+top: 338px;
 
 font-family: 'Marck Script';
 font-style: normal;
 font-weight: 400;
-font-size: 15px;
-line-height: 19px;
-/* identical to box height */
-
+font-size: 30px;
+line-height: 37px;
 
 color: #000000;
 }
 
 #i2{
     position: absolute;
-width: 107px;
-height: 19px;
-left: 234px;
-top: 169px;
+width: 214px;
+height: 38px;
+left: 468px;
+top: 338px;
+
 font-family: 'Marck Script';
 font-style: normal;
 font-weight: 400;
-font-size: 15px;
-line-height: 19px;
+font-size: 30px;
+line-height: 37px;
 /* identical to box height */
 
 text-align: right;
@@ -144,34 +140,32 @@ color: #000000;
 
 #f2{
     position: absolute;
-width: 220px;
-height: 49px;
-left: 124px;
-top: 196px;
+width: 440px;
+height: 98px;
+left: 248px;
+top: 392px;
 }
 
 #f3{
     position: absolute;
-width: 220px;
-height: 59px;
-left: 125px;
-top: 253px;
+width: 440px;
+height: 118px;
+left: 250px;
+top: 506px;
 }
 
 #d2{
     position: absolute;
-width: 42px;
-height: 19px;
-left: 291px;
-top: 320px;
+width: 84px;
+height: 38px;
+left: 582px;
+top: 640px;
 
 font-family: 'Marck Script';
 font-style: normal;
 font-weight: 400;
-font-size: 15px;
-line-height: 19px;
-/* identical to box height */
-
+font-size: 30px;
+line-height: 37px;
 
 color: #000000;
 }
@@ -180,18 +174,16 @@ color: #000000;
 
 #b1{
     position: absolute;
-width: 239px;
-height: 19px;
-left: 60px;
-top: 362px;
+width: 478px;
+height: 38px;
+left: 120px;
+top: 724px;
 
 font-family: 'Marck Script';
 font-style: normal;
 font-weight: 400;
-font-size: 15px;
-line-height: 19px;
-/* identical to box height */
-
+font-size: 30px;
+line-height: 37px;
 text-align: center;
 
 color: #000000;
@@ -199,26 +191,24 @@ color: #000000;
 
 #f4{
     position: absolute;
-width: 72px;
-height: 67px;
-left: 82px;
-top: 387px;
+width: 144px;
+height: 134px;
+left: 164px;
+top: 774px;
 }
 
 #b2{
     position: absolute;
-width: 129px;
-height: 20px;
-left: 159px;
-top: 394px;
+width: 258px;
+height: 40px;
+left: 318px;
+top: 788px;
 
 font-family: 'Marck Script';
 font-style: normal;
 font-weight: 400;
-font-size: 15px;
-line-height: 19px;
-/* identical to box height */
-
+font-size: 30px;
+line-height: 37px;
 text-align: center;
 
 color: #000000;
@@ -227,56 +217,54 @@ color: #000000;
 
 #i3{
     position: absolute;
-width: 170px;
-height: 19px;
-left: 6px;
-top: 462px;
+width: 340px;
+height: 38px;
+left: 12px;
+top: 924px;
 
 font-family: 'Marck Script';
 font-style: normal;
 font-weight: 400;
-font-size: 15px;
-line-height: 19px;
-/* identical to box height */
-
+font-size: 30px;
+line-height: 37px;
 text-align: center;
 
 color: #000000;
+
 }
 
 #f5{
     position: absolute;
-width: 148px;
-height: 75px;
-left: 16px;
-top: 484px;
+width: 296px;
+height: 150px;
+left: 46px;
+top: 962.05px;
 }
 
 #d3{
     position: absolute;
-width: 42px;
-height: 19px;
-left: 10px;
-top: 570px;
+width: 84px;
+height: 38px;
+left: 20px;
+top: 1140px;
 
 font-family: 'Marck Script';
 font-style: normal;
 font-weight: 400;
-font-size: 15px;
-line-height: 19px;
-/* identical to box height */
+font-size: 30px;
+line-height: 37px;
 
 color: #000000;
 }
 
 #l1{
     position: absolute;
-width: 360px;
+width: 720px;
 height: 0px;
 left: 0px;
-top: 458px;
+top: 916px;
 
-border: 1px solid #000000;
+border: 2px solid #000000;
 background: #000000;
 }
 
@@ -284,46 +272,44 @@ background: #000000;
 
 #i4{
     position: absolute;
-width: 208px;
-height: 19px;
-left: 137px;
-top: 589px;
+    width: 416px;
+    height: 38px;
+    left: 274px;
+    top: 1178px;
 
 font-family: 'Marck Script';
 font-style: normal;
 font-weight: 400;
-font-size: 15px;
-line-height: 19px;
-/* identical to box height */
-
+font-size: 30px;
+line-height: 37px;
 text-align: center;
 
 color: #000000;
+
 }
 
 #f6{
     position: absolute;
-width: 186px;
-height: 83px;
-left: 160px;
-top: 614px;
+width: 372px;
+height: 166px;
+left: 320px;
+top: 1228px;
 }
 
 #d4{
     position: absolute;
-width: 42px;
-height: 19px;
-left: 300px;
-top: 704px;
+width: 84px;
+height: 38px;
+left: 600px;
+top: 1408px;
 
 font-family: 'Marck Script';
 font-style: normal;
 font-weight: 400;
-font-size: 15px;
-line-height: 19px;
-/* identical to box height */
+font-size: 30px;
+line-height: 37px;
 
-color: #000000;
+color: #000000; 
 }
 
 
@@ -331,80 +317,79 @@ color: #000000;
 
 #i5{
     position: absolute;
-width: 241px;
-height: 21px;
-left: 2px;
-top: 726px;
+width: 482px;
+height: 42px;
+left: 20px;
+top: 1448.05px;
 
 font-family: 'Marck Script';
 font-style: normal;
 font-weight: 400;
-font-size: 15px;
-line-height: 19px;
-/* identical to box height */
-
+font-size: 30px;
+line-height: 37px;
 
 color: #000000;
 }
 
 #f7{
     position: absolute;
-width: 172px;
-height: 82px;
-left: 15px;
-top: 756px;
+width: 344px;
+height: 164px;
+left: 30px;
+top: 1512px;
 }
 
 #d5{
     position: absolute;
-width: 42px;
-height: 19px;
-left: 19px;
-top: 842px;
+width: 84px;
+height: 38px;
+left: 38px;
+top: 1684px;
 
 font-family: 'Marck Script';
 font-style: normal;
 font-weight: 400;
-font-size: 15px;
-line-height: 19px;
-/* identical to box height */
+font-size: 30px;
+line-height: 37px;
 
 color: #000000;
+
 }
 
 
 
 #i6{
     position: absolute;
-width: 176px;
-height: 21px;
-left: 180px;
-top: 872px;
+width: 352px;
+height: 42px;
+left: 360px;
+top: 1744px;
 
 font-family: 'Marck Script';
 font-style: normal;
 font-weight: 400;
-font-size: 15px;
-line-height: 19px;
+font-size: 30px;
+line-height: 37px;
 
 color: #000000;
 }
 
 #f8{
     position: absolute;
-width: 90px;
-height: 129px;
-left: 223px;
-top: 900px;
+width: 180px;
+height: 258px;
+left: 446px;
+top: 1800px;
 }
-#l1{
-    position: absolute;
-width: 360.01px;
-height: 0px;
-left: 0px;
-top: 1046px;
 
-border: 1px solid #000000;
+#l2{
+    position: absolute;
+    width: 720.01px;
+    height: 0px;
+    left: 0px;
+    top: 2092px;
+    
+    border: 2px solid #000000;
 background: #000000;
 }
 
@@ -412,26 +397,26 @@ background: #000000;
 
 #f9{
     position: absolute;
-width: 316.12px;
-height: 310px;
-left: 22px;
-top: 1082px;
+width: 632.24px;
+height: 620px;
+left: 44px;
+top: 2164px;
 }
 
 
 
 #s{
     position: absolute;
-width: 226px;
-height: 666px;
-left: 68px;
-top: 1456px;
+width: 452px;
+height: 1332px;
+left: 136px;
+top: 2912px;
 
 font-family: 'Marck Script';
 font-style: normal;
 font-weight: 400;
-font-size: 15px;
-line-height: 19px;
+font-size: 30px;
+line-height: 37px;
 
 color: #000000;
 }
@@ -439,16 +424,16 @@ color: #000000;
 
 #ilu{
     position: absolute;
-width: 57px;
-height: 22px;
-left: 154px;
-top: 2140px;
+width: 114px;
+height: 44px;
+left: 308px;
+top: 4280px;
 
 font-family: 'Marck Script';
 font-style: normal;
 font-weight: 400;
-font-size: 15px;
-line-height: 19px;
+font-size: 30px;
+line-height: 37px;
 
 color: #000000;
 }
@@ -456,8 +441,8 @@ color: #000000;
 
 #glav{
     position: relative;
-width: 360px;
-height: 2171px;
+width: 720px;
+height: 4342px;
 
 background: #C0DCC0;
 }
