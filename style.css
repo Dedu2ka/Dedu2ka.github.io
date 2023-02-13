@@ -5,6 +5,26 @@ body {
     font-size: 16px;
     }
 
+    #clockDisplay{
+        position: absolute;
+        width: 688px;
+        height: 100px;
+        left: 16px;
+        top: 4257px;
+        margin:0px auto;
+        background-color: #1E1E1E;
+        border: 5px solid #ededee;
+        box-shadow: 0 20px 30px rgba(0,0,0,0.2);
+        color: #2ed9f7;
+        padding-top: 30px;
+        font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+        font-size:60px;
+        text-align: center;
+        letter-spacing: 2px;
+    
+    }
+
+
 header {
     position: absolute;
 width: 720px;
@@ -408,7 +428,7 @@ top: 2164px;
 #s{
     position: absolute;
 width: 452px;
-height: 1332px;
+height: 1266px;
 left: 136px;
 top: 2912px;
 
@@ -426,8 +446,8 @@ color: #000000;
     position: absolute;
 width: 114px;
 height: 44px;
-left: 308px;
-top: 4280px;
+left: 306px;
+top: 4412px;
 
 font-family: 'Marck Script';
 font-style: normal;
@@ -442,8 +462,38 @@ color: #000000;
 #glav{
     position: relative;
 width: 720px;
-height: 4342px;
+height: 4478px;
 
 background: #C0DCC0;
+}
+
+
+
+#me{
+    position: absolute;
+width: 289px;
+height: 37px;
+left: 215px;
+top: 4190px;
+
+font-family: 'Marck Script';
+font-style: normal;
+font-weight: 400;
+font-size: 30px;
+line-height: 37px;
+
+color: #000000;
+
+}
+
+
+#l5{
+    position: absolute;
+width: 720px;
+height: 0px;
+left: 0px;
+top: 4183px;
+
+border: 1px solid #000000;
 }
 
